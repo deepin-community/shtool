@@ -1,0 +1,3 @@
+Test-Command: shtool echo Debian
+
+Test-command: shtool version -h
